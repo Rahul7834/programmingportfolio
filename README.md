@@ -1,6 +1,7 @@
 # Rahul Nair's Programming Portfolio 2024
 
 ## Tech Certification
+* Digital media 1 USOE State certification
 
 ## Group Project
 
