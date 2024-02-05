@@ -38,6 +38,6 @@ OOP graphical app using graphics and loops for a full user experience.
 ### EtchAsketch
 OOP graphical app using keyboard listners for a full user experience.
 
-![Images](https://github.com/Rahul7834/programmingportfolio/blob/main/images/Screensaver.png)
+![Images](https://github.com/Rahul7834/programmingportfolio/blob/main/images/EtchAsketch.png)
 
 [Source Code](https://github.com/Rahul7834/programmingportfolio/blob/main/src/screensaver.zip)
