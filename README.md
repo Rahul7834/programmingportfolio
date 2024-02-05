@@ -15,7 +15,7 @@ OOP graphical game using sound and images for a full user experience.
 [Source Code](https://github.com/Rahul7834/programmingportfolio/blob/main/src/SpaceGame%207.zip)
 
 ### Calculator
-OOP graphical game using sgraphics and keyboard/mouse listners for a full user experience.
+OOP graphical game using graphics and keyboard/mouse listners for a full user experience.
 
 ![Images](https://github.com/Rahul7834/programmingportfolio/blob/main/images/Main.png)
 
