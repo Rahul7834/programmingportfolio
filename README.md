@@ -4,6 +4,8 @@
 * Digital media 1 USOE State certification
 
 ## Group Project
+An exiting text game using Ascii art to create a interactive experience for the user using decision forks.
+[Github](https://github.com/Rahul7834/Empty-Rooms)
 
 ## Individual Project
 
