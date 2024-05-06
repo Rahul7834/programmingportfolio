@@ -1,5 +1,5 @@
 # Rahul Nair's Programming Portfolio 2024
-
+[Email](9730825@graniteschools.org)
 ## Tech Certification
 * Digital media 1 USOE State certification
 
@@ -8,10 +8,11 @@ An exiting text game using Ascii art to create a interactive experience for the 
 [Github](https://github.com/Rahul7834/Empty-Rooms)
 
 ## Individual Project
+[Github](https://github.com/Rahul7834/CryptoRealm)
+![Gameplay](https://github.com/Rahul7834/programmingportfolio/blob/main/images/maingui.png)
 
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
-[Github](https://github.com/Rahul7834/CryptoRealm)
 
 ![Gameplay](https://github.com/Rahul7834/programmingportfolio/blob/main/images/SpaceGame.png?raw=true)
 
