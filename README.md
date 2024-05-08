@@ -5,6 +5,7 @@
 ## Group Project
 An exiting text game using Ascii art to create a interactive experience for the user using decision forks.
 [Github](https://github.com/Rahul7834/Empty-Rooms)
+![Gameplay](https://github.com/Rahul7834/programmingportfolio/blob/main/images/Game.png)
 
 ## CryptoRealm
 CrytoRealm provides the user with a interactive experience by providing real time graphs and values which corresponds with the real world. It provides the user with an oppertunity to learn and gain some knowledge about the Crytocurrency world. Using real time graphs really allows the user to dive into the experience and feeling of being a crytocurrency trader.
