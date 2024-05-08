@@ -1,5 +1,4 @@
 # Rahul Nair's Programming Portfolio 2024
-[Email](9730825@graniteschools.org)
 ## Tech Certification
 * Digital media 1 USOE State certification
 
